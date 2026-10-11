@@ -1,0 +1,8 @@
+# Secrets -- API KEY
+.env
+
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
